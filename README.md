@@ -38,11 +38,11 @@ This GitHub repository gathers Cheatsheets and quick Reference guides for AI and
   - 5- Statistics cheat sheet
   - 6- Super-cheatsheet-mathematics 
 - 02- **C++**<br>
-  - 1- [1- C++ Reference Card](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/01-%20Mathematics/1-%20Calculus%20cheat%20sheet%20all%20reduced.pdf)
+  - 1- [C++ Reference Card](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/01-%20Mathematics/1-%20Calculus%20cheat%20sheet%20all%20reduced.pdf)
   - 2- C++ Libraries
   - 3- C++ OOP Reference Card
 - 03- **Python**<br>
-  - 1- [1- Python for Beginners](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/01-%20Mathematics/1-%20Calculus%20cheat%20sheet%20all%20reduced.pdf)
+  - 1- [Python for Beginners](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/01-%20Mathematics/1-%20Calculus%20cheat%20sheet%20all%20reduced.pdf)
   - 2- Python Reference Cheatsheet
   - 3- Python cheatsheet
   - 4- Python for Data Science cheatsheet
