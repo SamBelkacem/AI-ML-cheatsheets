@@ -10,7 +10,7 @@ This GitHub repository gathers Cheatsheets and quick Reference guides for AI and
 
 ## The structure of the folder
 
-- 01- Mathematics
+- 01- [**Mathematics**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/01-%20Mathematics)<br>
 - 02- C++
 - 03- Python
 - 04- Computer architecture
