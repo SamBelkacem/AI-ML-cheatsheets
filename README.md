@@ -6,7 +6,7 @@ This GitHub repository gathers Cheatsheets and quick Reference guides for AI and
 
 # Google Drive
 
-A Google Drive version of this repository is avaible [here](https://drive.google.com/drive/folders/1yReFa2Af9icmdEaAYOUocepkQk_gGJJK?usp=sharing)
+For an ease of browse over the files, a Google Drive version of this repository is available [here](https://drive.google.com/drive/folders/1yReFa2Af9icmdEaAYOUocepkQk_gGJJK?usp=sharing).
 
 # AI-ML-roadmap
 
