@@ -23,7 +23,7 @@ This GitHub repository gathers Cheatsheets and quick Reference guides for AI and
 - 11- [**Introduction to AI**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/11-%20Introduction%20to%20AI)<br>
 - 12- [**Machine learning**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/12-%20Machine%20learning)<br>
 - 13- [**Deep learning**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/13-%20Deep%20learning)<br>
-- 14- [**Metrics to evaluate machine learning algorithms**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/14-%20Metrics%20to%20evaluate%20machine%20learning%20algorithms)<br>
+- 14- [**Metrics to evaluate ML algorithms**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/14-%20Metrics%20to%20evaluate%20machine%20learning%20algorithms)<br>
 - 15- [**Reinforcement learning**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/15-%20Reinforcement%20learning)<br>
 - 16- [**Time series**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/16-%20Time%20series)<br>
 - 17- [**Git**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/17-%20Git)<br>
