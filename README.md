@@ -90,10 +90,10 @@ For an ease of browse over the files, a Google Drive version of this repository 
 - 12- [**Machine learning**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/12-%20Machine%20learning)<br>
   - Machine-learning-map
   - Machine learning algorithms
-  - How to choose a ML algorithm
-  - How to choose a ML algorithm
-  - Comparison of machine learning algorithms
-  - Comparison of machine learning algorithms
+  - How to choose a ML algorithm 1
+  - How to choose a ML algorithm 2
+  - Comparison of machine learning algorithms 1
+  - Comparison of machine learning algorithms 2
   - super-cheatsheet-machine-learning
   - Machine learning cheatsheets
 - 13- [**Deep learning**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/13-%20Deep%20learning)<br>
