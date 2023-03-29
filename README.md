@@ -31,35 +31,35 @@ This GitHub repository gathers Cheatsheets and quick Reference guides for AI and
 ## The content of the folder
 
 - 01- [**Mathematics**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/01-%20Mathematics)<br>
-  - 1- Calculus cheat sheet all reduced
-  - 2- Calculus cheat sheet
-  - 3- Linear Algebra in 4 pages
-  - 4- Probability cheat sheet
-  - 5- Statistics cheat sheet
-  - 6- Super-cheatsheet-mathematics 
+  - Calculus cheat sheet all reduced
+  - Calculus cheat sheet
+  - Linear Algebra in 4 pages
+  - Probability cheat sheet
+  - Statistics cheat sheet
+  - Super-cheatsheet-mathematics 
 - 02- [**C++**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/02-%20C%2B%2B)<br>
-  - 1- C++ Reference Card
-  - 2- C++ Libraries
-  - 3- C++ OOP Reference Card
+  - C++ Reference Card
+  - C++ Libraries
+  - C++ OOP Reference Card
 - 03- [**Python**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/03-%20Python)<br>
-  - 1- Python for Beginners
-  - 2- Python Reference Cheatsheet
-  - 3- Python cheatsheet
-  - 4- Python for Data Science cheatsheet
-  - 5- Numpy cheatsheet.pdf
-  - 6- Pandas cheatsheet 1
-  - 6- Pandas cheatsheet 2
-  - 7- Matplotlib cheatsheet 1
-  - 7- Matplotlib cheatsheet 2
-  - 8- Scikit-Learn cheatsheet
-  - 9- Tutorial Python
+  - Python for Beginners
+  - Python Reference Cheatsheet
+  - Python cheatsheet
+  - Python for Data Science cheatsheet
+  - Numpy cheatsheet.pdf
+  - Pandas cheatsheet 1
+  - Pandas cheatsheet 2
+  - Matplotlib cheatsheet 1
+  - Matplotlib cheatsheet 2
+  - Scikit-Learn cheatsheet
+  - Tutorial Python
 - 04- [**Computer architecture**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/04-%20Computer%20architecture)<br>
-    - Computer organisation
+  - Computer organisation
 - 05- [**Data structures**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/05-%20Data%20structures)<br>
-  - 1- Classification of Data structures
-  - 2- Data structures
-  - 3- Complexity
-  - 4- Resources
+  - Classification of Data structures
+  - Data structures
+  - Complexity
+  - Resources
 - 06- [**Complexity theory**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/06-%20Complexity%20theory)<br>
   - 1- Automata Theory
   - 2- Complexity Theory Cheat Sheet
