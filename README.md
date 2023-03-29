@@ -58,7 +58,7 @@ For an ease of browse over the files, a Google Drive version of this repository 
   - Scikit-Learn cheatsheet
   - Tutorial Python
 - 04- [**Computer architecture**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/04-%20Computer%20architecture)<br>
-  - Computer organisation
+  - Computer organisation cheatsheet
 - 05- [**Data structures**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/05-%20Data%20structures)<br>
   - Classification of Data structures
   - Data structures
