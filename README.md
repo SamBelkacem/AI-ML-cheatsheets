@@ -50,7 +50,7 @@ For an ease of browse over the files, a Google Drive version of this repository 
   - Python Reference Cheatsheet
   - Python cheatsheet
   - Python for Data Science cheatsheet
-  - Numpy cheatsheet.pdf
+  - Numpy cheatsheet
   - Pandas cheatsheet 1
   - Pandas cheatsheet 2
   - Matplotlib cheatsheet 1
