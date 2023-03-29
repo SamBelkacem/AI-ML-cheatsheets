@@ -11,10 +11,10 @@ This GitHub repository gathers Cheatsheets and quick Reference guides for AI and
 ## The structure of the folder
 
 - 01- [**Mathematics**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/01-%20Mathematics)<br>
-- 02- C++
-- 03- Python
-- 04- Computer architecture
-- 05- Data structures
+- 02- [**C++**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/02-%20C%2B%2B)<br>
+- 03- [**Python**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/03-%20Python)<br>
+- 04- [**Computer architecture**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/04-%20Computer%20architecture)<br>
+- 05- [**Data structures**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/05-%20Data%20structures)<br>
 - 06- Complexity theory
 - 07- SQL
 - 08- Data cleaning
