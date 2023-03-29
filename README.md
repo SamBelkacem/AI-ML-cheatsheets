@@ -10,6 +10,8 @@ For an ease of browse over the files, a Google Drive version of this repository 
 
 # AI-ML-roadmap
 
+The global structure of the GitHub repository follows somewhat the following AI and ML roadmap.
+
 ![AI-ML-roadmap](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/AI%20roadmap.png)
 
 ## The structure of the folder
