@@ -54,9 +54,23 @@ This GitHub repository gathers Cheatsheets and quick Reference guides for AI and
   - 8- Scikit-Learn cheatsheet
   - 9- Tutorial Python
 - 04- [**Computer architecture**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/04-%20Computer%20architecture)<br>
+    - Computer organisation
 - 05- [**Data structures**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/05-%20Data%20structures)<br>
+  - 1- Classification of Data structures
+  - 2- Data structures
+  - 3- Complexity
+  - 4- Resources
 - 06- [**Complexity theory**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/06-%20Complexity%20theory)<br>
+  - 1- Automata Theory
+  - 2- Complexity Theory Cheat Sheet
+  - 3- Computability Theory Cheat Sheet
 - 07- [**SQL**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/07-%20SQL)<br>
+  - 0- SQL-quick-guide
+  - 1- SQL operations
+  - 2- SQL commands
+  - 3- SQL-basics-cheat-sheet-a4
+  - 4- SQL joins-cheat-sheet-a4
+  - 5- Study-guide-data-retrieval-with-SQL
 - 08- [**Data cleaning**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/08-%20Data%20cleaning)<br>
 - 09- [**Data visualization**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/09-%20Data%20visualization)<br>
 - 10- [**Mathematical logic**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/10-%20Mathematical%20logic)<br>
