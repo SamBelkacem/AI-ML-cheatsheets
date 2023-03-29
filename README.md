@@ -104,4 +104,4 @@ This GitHub repository gathers Cheatsheets and quick Reference guides for AI and
 - 16- [**Time series**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/16-%20Time%20series)<br>
   - Time-series-cheat-sheet 
 - 17- [**Git**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/17-%20Git)<br>
-  - Git-cheat-sheet 
+  - Git-cheat-sheet
