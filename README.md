@@ -61,18 +61,23 @@ This GitHub repository gathers Cheatsheets and quick Reference guides for AI and
   - Complexity
   - Resources
 - 06- [**Complexity theory**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/06-%20Complexity%20theory)<br>
-  - 1- Automata Theory
-  - 2- Complexity Theory Cheat Sheet
-  - 3- Computability Theory Cheat Sheet
+  - Automata Theory
+  - Complexity Theory Cheat Sheet
+  - Computability Theory Cheat Sheet
 - 07- [**SQL**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/07-%20SQL)<br>
-  - 0- SQL-quick-guide
-  - 1- SQL operations
-  - 2- SQL commands
-  - 3- SQL-basics-cheat-sheet-a4
-  - 4- SQL joins-cheat-sheet-a4
-  - 5- Study-guide-data-retrieval-with-SQL
+  - SQL-quick-guide
+  - SQL operations
+  - SQL commands
+  - SQL-basics-cheat-sheet-a4
+  - SQL joins-cheat-sheet-a4
+  - Study-guide-data-retrieval-with-SQL
 - 08- [**Data cleaning**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/08-%20Data%20cleaning)<br>
+  - Data-cleaning-checklist
 - 09- [**Data visualization**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/09-%20Data%20visualization)<br>
+  - Core principles of Data Visualization
+  - Visual Vocabulary
+  - Data visualization cheatsheet
+  - The chart chooser
 - 10- [**Mathematical logic**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/10-%20Mathematical%20logic)<br>
 - 11- [**Introduction to AI**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/11-%20Introduction%20to%20AI)<br>
 - 12- [**Machine learning**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/12-%20Machine%20learning)<br>
