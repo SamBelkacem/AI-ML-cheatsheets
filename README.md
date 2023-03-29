@@ -30,19 +30,19 @@ This GitHub repository gathers Cheatsheets and quick Reference guides for AI and
 
 ## The content of the folder
 
-- 01- **Mathematics**<br>
-  - 1- [Calculus cheat sheet all reduced](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/01-%20Mathematics/1-%20Calculus%20cheat%20sheet%20all%20reduced.pdf)
+- 01- [**Mathematics**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/01-%20Mathematics)<br>
+  - 1- Calculus cheat sheet all reduced
   - 2- Calculus cheat sheet
   - 3- Linear Algebra in 4 pages
   - 4- Probability cheat sheet
   - 5- Statistics cheat sheet
   - 6- Super-cheatsheet-mathematics 
-- 02- **C++**<br>
-  - 1- [C++ Reference Card](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/01-%20Mathematics/1-%20Calculus%20cheat%20sheet%20all%20reduced.pdf)
+- 02- [**C++**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/02-%20C%2B%2B)<br>
+  - 1- C++ Reference Card
   - 2- C++ Libraries
   - 3- C++ OOP Reference Card
-- 03- **Python**<br>
-  - 1- [Python for Beginners](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/01-%20Mathematics/1-%20Calculus%20cheat%20sheet%20all%20reduced.pdf)
+- 03- [**Python**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/03-%20Python)<br>
+  - 1- Python for Beginners
   - 2- Python Reference Cheatsheet
   - 3- Python cheatsheet
   - 4- Python for Data Science cheatsheet
@@ -53,3 +53,17 @@ This GitHub repository gathers Cheatsheets and quick Reference guides for AI and
   - 7- Matplotlib cheatsheet 2
   - 8- Scikit-Learn cheatsheet
   - 9- Tutorial Python
+- 04- [**Computer architecture**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/04-%20Computer%20architecture)<br>
+- 05- [**Data structures**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/05-%20Data%20structures)<br>
+- 06- [**Complexity theory**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/06-%20Complexity%20theory)<br>
+- 07- [**SQL**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/07-%20SQL)<br>
+- 08- [**Data cleaning**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/08-%20Data%20cleaning)<br>
+- 09- [**Data visualization**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/09-%20Data%20visualization)<br>
+- 10- [**Mathematical logic**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/10-%20Mathematical%20logic)<br>
+- 11- [**Introduction to AI**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/11-%20Introduction%20to%20AI)<br>
+- 12- [**Machine learning**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/12-%20Machine%20learning)<br>
+- 13- [**Deep learning**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/13-%20Deep%20learning)<br>
+- 14- [**Metrics to evaluate ML algorithms**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/14-%20Metrics%20to%20evaluate%20machine%20learning%20algorithms)<br>
+- 15- [**Reinforcement learning**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/15-%20Reinforcement%20learning)<br>
+- 16- [**Time series**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/16-%20Time%20series)<br>
+- 17- [**Git**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/17-%20Git)<br>
