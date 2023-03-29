@@ -4,6 +4,10 @@ This GitHub repository gathers Cheatsheets and quick Reference guides for AI and
 
 ![AI-ML-cheatsheets](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/AI-ML-cheatsheets.png)
 
+# Google Drive
+
+A Google Drive version of this repository is avaible [here](https://drive.google.com/drive/folders/1yReFa2Af9icmdEaAYOUocepkQk_gGJJK?usp=sharing)
+
 # AI-ML-roadmap
 
 ![AI-ML-roadmap](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/AI%20roadmap.png)
