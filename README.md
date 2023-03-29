@@ -31,3 +31,9 @@ This GitHub repository gathers Cheatsheets and quick Reference guides for AI and
 ## The content of the folder
 
 - 01- **Mathematics**<br>
+  - 1- Calculus cheat sheet all reduced
+  - 2- Calculus cheat sheet
+  - 3- Linear Algebra in 4 pages
+  - 4- Probability cheat sheet
+  - 5- Statistics cheat sheet
+  - 6- Super-cheatsheet-mathematics
