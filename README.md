@@ -27,3 +27,7 @@ This GitHub repository gathers Cheatsheets and quick Reference guides for AI and
 - 15- [**Reinforcement learning**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/15-%20Reinforcement%20learning)<br>
 - 16- [**Time series**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/16-%20Time%20series)<br>
 - 17- [**Git**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/17-%20Git)<br>
+
+## The content of the folder
+
+- 01- **Mathematics**<br>
