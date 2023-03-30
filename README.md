@@ -99,8 +99,8 @@ The global structure of the GitHub repository follows somewhat the following AI 
   - Machine learning algorithms
   - How to choose a ML algorithm 1
   - How to choose a ML algorithm 2
-  - Comparison of machine learning algorithms 1
-  - Comparison of machine learning algorithms 2
+  - Comparison of ML algorithms 1
+  - Comparison of ML algorithms 2
   - super-cheatsheet-machine-learning
   - Machine learning cheatsheets
 - 13- [**Deep learning**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/13-%20Deep%20learning)<br>
