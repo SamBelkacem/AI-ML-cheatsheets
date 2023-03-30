@@ -21,6 +21,7 @@ The global structure of the GitHub repository follows somewhat the following AI 
 - 03- [**Python**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/03-%20Python)<br>
 - 04- [**Computer architecture**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/04-%20Computer%20architecture)<br>
 - 05- [**Data structures**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/05-%20Data%20structures)<br>
+- 06- [**Automata theory**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/06-%20Automata%20theory)<br>
 - 06- [**Complexity theory**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/06-%20Complexity%20theory)<br>
 - 07- [**SQL**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/07-%20SQL)<br>
 - 08- [**Data cleaning**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/08-%20Data%20cleaning)<br>
@@ -66,6 +67,7 @@ The global structure of the GitHub repository follows somewhat the following AI 
   - Data structures
   - Complexity
   - Resources
+- 06- [**Automata theory**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/06-%20Automata%20theory)<br>
 - 06- [**Complexity theory**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/06-%20Complexity%20theory)<br>
   - Automata Theory
   - Complexity Theory Cheat Sheet
