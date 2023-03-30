@@ -68,6 +68,9 @@ The global structure of the GitHub repository follows somewhat the following AI 
   - Complexity
   - Resources
 - 06- [**Automata theory**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/06-%20Automata%20theory)<br>
+  - Languages and Automata cheathseet
+  - Automata cheatsheet
+  - Context-Free Grammar cheatsheet
 - 06- [**Complexity theory**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/06-%20Complexity%20theory)<br>
   - Automata Theory
   - Complexity Theory Cheat Sheet
