@@ -14,7 +14,7 @@ For an ease of download and browse over the files, a Google Drive version of thi
 
 # AI-ML-roadmap
 
-The global structure of this GitHub repository follows to some extent the following AI and ML roadmap.
+The global structure of this GitHub repository follows to some extent the following AI and Machine Learning roadmap.
 ![AI-ML-roadmap](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/AI%20roadmap.png)
 
 ## The structure of the folder
