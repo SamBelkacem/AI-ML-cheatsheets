@@ -8,7 +8,7 @@ This GitHub repository gathers Cheatsheets and quick Reference guides for Artifi
 
 For an ease of browse over the files, a Google Drive version of this GitHub repository is available [here](https://drive.google.com/drive/folders/1yReFa2Af9icmdEaAYOUocepkQk_gGJJK?usp=sharing).
 
-<img src="https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/Google%20Drive.png" alt="Google-drive" width="500" height="300">
+<img src="https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/Google%20Drive.png" alt="Google-drive" width="70%" height="70%">
 
 # AI-ML-roadmap
 
