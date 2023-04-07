@@ -106,6 +106,7 @@ The global structure of this GitHub repository follows to some extent the follow
   - Comparison of ML algorithms 2
   - super-cheatsheet-machine-learning
   - Machine learning cheatsheets
+  - Machine learning explainability
 - 13- [**Deep learning**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/13-%20Deep%20learning)<br>
   - main types of neural networks
   - super-cheatsheet-deep-learning 
