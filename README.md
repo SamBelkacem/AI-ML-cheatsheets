@@ -62,6 +62,7 @@ The global structure of this GitHub repository follows to some extent the follow
   - Matplotlib cheatsheet 1
   - Matplotlib cheatsheet 2
   - Scikit-Learn cheatsheet
+  - List, Tuples, Sets, Dictionary
   - Tutorial Python
 - 04- [**Computer architecture**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/04-%20Computer%20architecture)<br>
   - Computer organisation cheatsheet
