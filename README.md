@@ -99,6 +99,7 @@ The global structure of this GitHub repository follows to some extent the follow
   - cheatsheet-states-models
   - cheatsheet-variables-models
 - 12- [**Machine learning**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/12-%20Machine%20learning)<br>
+  - Machine Learning Process
   - Machine-learning-map
   - Machine learning algorithms
   - How to choose a ML algorithm 1
