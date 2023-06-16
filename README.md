@@ -87,6 +87,7 @@ The global structure of this GitHub repository follows to some extent the follow
   - Study-guide-data-retrieval-with-SQL
 - 08- [**Data cleaning**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/08-%20Data%20cleaning)<br>
   - Data-cleaning-checklist
+  - Data-cleaning-guide
   - Data-preparation-cheatsheet
   - Feature-selection-methods
 - 09- [**Data visualization**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/09-%20Data%20visualization)<br>
