@@ -89,6 +89,7 @@ The global structure of this GitHub repository follows to some extent the follow
   - Data-cleaning-checklist
   - Data-cleaning-guide
   - Data-preparation-cheatsheet
+  - Feature engineering
   - Feature-selection-methods
 - 09- [**Data visualization**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/09-%20Data%20visualization)<br>
   - Core principles of Data Visualization
