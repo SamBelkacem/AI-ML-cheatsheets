@@ -115,9 +115,13 @@ The global structure of this GitHub repository follows to some extent the follow
   - Machine learning cheatsheets
   - Machine learning explainability
 - 13- [**Deep learning**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/13-%20Deep%20learning)<br>
-  - main types of neural networks
   - super-cheatsheet-deep-learning
+  - main types of neural networks
   - Large Language Models cheatsheet
+  - Architecture - Classification MLP
+  - Architecture - Regression MLP
+  - Activation Function - Hidden Layer
+  - Activation Function - Output Layer
 - 14- [**Metrics to evaluate ML algorithms**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/14-%20Metrics%20to%20evaluate%20machine%20learning%20algorithms)<br>
   - Metrics-machine-learning
   - Performance-measure-machine-learning 
