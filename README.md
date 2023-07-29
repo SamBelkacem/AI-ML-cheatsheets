@@ -114,6 +114,7 @@ The global structure of this GitHub repository follows to some extent the follow
   - super-cheatsheet-machine-learning
   - Machine learning cheatsheets
   - Machine learning explainability
+  - Machine learning operations MLOps
 - 13- [**Deep learning**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/13-%20Deep%20learning)<br>
   - super-cheatsheet-deep-learning
   - Large Language Models cheatsheet
