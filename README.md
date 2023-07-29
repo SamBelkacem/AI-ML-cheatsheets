@@ -116,8 +116,8 @@ The global structure of this GitHub repository follows to some extent the follow
   - Machine learning explainability
 - 13- [**Deep learning**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/13-%20Deep%20learning)<br>
   - super-cheatsheet-deep-learning
-  - main types of neural networks
   - Large Language Models cheatsheet
+  - main types of neural networks
   - Architecture - Classification MLP
   - Architecture - Regression MLP
   - Activation Function - Hidden Layer
