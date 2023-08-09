@@ -45,6 +45,7 @@ The global structure of this GitHub repository follows to some extent the follow
   - Calculus cheat sheet
   - Linear Algebra in 4 pages
   - Probability cheat sheet
+  - Probability distribution cheat sheet
   - Statistics cheat sheet
   - Super-cheatsheet-mathematics 
 - 02- [**C++**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/02-%20C%2B%2B)<br>
