@@ -133,3 +133,4 @@ The global structure of this GitHub repository follows to some extent the follow
   - Time-series-cheat-sheet 
 - 17- [**Git**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/17-%20Git)<br>
   - Git-cheat-sheet
+  - Git-cheat-sheet 2
