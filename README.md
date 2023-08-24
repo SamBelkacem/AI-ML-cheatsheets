@@ -112,6 +112,7 @@ The global structure of this GitHub repository follows to some extent the follow
   - Comparison of ML algorithms 2
   - Comparison of ML algorithms 3
   - Comparison of ML algorithms 4
+  - Comparison of ML algorithms 5
   - super-cheatsheet-machine-learning
   - Machine learning cheatsheets
   - Machine learning explainability
