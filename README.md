@@ -86,6 +86,7 @@ The global structure of this GitHub repository follows to some extent the follow
   - SQL-basics-cheat-sheet-a4
   - SQL joins-cheat-sheet-a4
   - Study-guide-data-retrieval-with-SQL
+  - SQL Roadmap
 - 08- [**Data cleaning**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/08-%20Data%20cleaning)<br>
   - Data-cleaning-checklist
   - Data-cleaning-guide
