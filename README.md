@@ -100,6 +100,7 @@ The global structure of this GitHub repository follows to some extent the follow
   - Visual Vocabulary
   - Data visualization cheatsheet
   - The chart chooser
+  - From Data to Visualization
 - 10- [**Mathematical logic**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/10-%20Mathematical%20logic)<br>
   - cheatsheet-logic-models
 - 11- [**Introduction to AI**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/11-%20Introduction%20to%20AI)<br>
