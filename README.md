@@ -83,6 +83,7 @@ The global structure of this GitHub repository follows to some extent the follow
 - 07- [**SQL**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/07-%20SQL)<br>
   - SQL-quick-guide
   - SQL operations
+  - SQL query execution order
   - SQL commands
   - SQL-basics-cheat-sheet-a4
   - SQL joins-cheat-sheet-a4
