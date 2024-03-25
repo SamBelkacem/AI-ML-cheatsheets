@@ -113,6 +113,7 @@ The global structure of this GitHub repository follows to some extent the follow
   - Machine learning algorithms
   - How to choose a ML algorithm 1
   - How to choose a ML algorithm 2
+  - Time complexity of ML algorithms.pdf
   - Comparison of ML algorithms 1
   - Comparison of ML algorithms 2
   - Comparison of ML algorithms 3
