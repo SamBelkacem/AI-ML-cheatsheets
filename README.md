@@ -131,7 +131,7 @@ The global structure of this GitHub repository follows to some extent the follow
   - Architecture - Regression MLP
   - Activation Function - Hidden Layer
   - Activation Function - Output Layer
-  - Activation functions
+  - Activation Functions
 - 14- [**Metrics to evaluate ML algorithms**](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/14-%20Metrics%20to%20evaluate%20machine%20learning%20algorithms)<br>
   - Metrics-machine-learning
   - Performance-measure-machine-learning 
